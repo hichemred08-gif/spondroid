@@ -1,0 +1,7 @@
+{
+  "name": "Alpine Codespace",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "remoteUser": "root"
+}
