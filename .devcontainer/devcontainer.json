@@ -8,5 +8,6 @@
       "version": "latest"
     }
   },
-  "remoteUser": "root"
+  "remoteUser": "root",
+  "containerUser": "root"
 }
